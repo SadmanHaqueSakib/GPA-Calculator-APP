@@ -1,0 +1,101 @@
+<resources>
+    <string-array name="grades">
+        <item>O</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E/F/G</item>
+    </string-array>
+    <string name="app_name">GPA Calculator</string>
+    <string name="SettingsHeading">Settings</string>
+    <string name="SettingDarkModeToggle">Toggle Night Mode</string>
+    <string name="AllSubjects">Subject\'s List</string>
+    <string name="Settings">Settings</string>
+    <string name="NewSubject">Add new subject!</string>
+    <string name="Add">Add</string>
+    <string name="firstSemester">First Year Subjects</string>
+    <string name="che110">CHE110  :: Environmental Studies</string>
+    <string name="cse101">CSE101 :: Computer Programming</string>
+    <string name="cse104">CSE104 :: Computer Programming Laboratory</string>
+    <string name="ece131">ECE131 :: Basic Electrical and Electronics Engineering</string>
+    <string name="ece132">ECE132 :: Basic Electrical and Electronics Engineering Laboratory</string>
+    <string name="mec107">MEC107 :: Basic Engineering Mechanics</string>
+    <string name="mth165">MTH165 :: Mathematics for Engineers</string>
+    <string name="pel121">PEL121 :: Communication Skills-I</string>
+    <string name="cse202">CSE202 :: Object Oriented Programming</string>
+    <string name="cse326">CSE326 :: Internet Programming Laboratory</string>
+    <string name="ece213">ECE213 :: Digital Electronics</string>
+    <string name="ece216">ECE216 :: Digital Electronics Laboratory</string>
+    <string name="mec103">MEC103 :: Engineering Graphics</string>
+    <string name="mth166">MTH166 :: Digital Equation and Vector Calculus</string>
+    <string name="pel131">PEL131 :: Communication Skills-II</string>
+    <string name="phy109">PHY109 :: Engineering Physics</string>
+    <string name="phy119">PHY119 :: Engineering Physics Laboratory</string>
+    <string name="Calculator">GPA Calculator</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Subject1">CHE110</string>
+    <string name="grade">Grade</string>
+    <string name="firstSemesterSubject">Term-I:</string>
+    <string name="Subject2">CSE101</string>
+    <string name="Subject3">CSE104</string>
+    <string name="Subject4">ECE131</string>
+    <string name="Subject5">ECE132</string>
+    <string name="Subject6">MEC107</string>
+    <string name="Subject7">MTH165</string>
+    <string name="Subject8">PEL121</string>
+    <string name="Results">Result</string>
+    <string name="TotalGP">Total Grade Point</string>
+    <string name="totalgpa">CGPA </string>
+    <string name="secondSemesterSubject">Term-II</string>
+    <string name="Subject9">CSE202</string>
+    <string name="Subject10">CSE326</string>
+    <string name="Subject11">ECE213</string>
+    <string name="Subject12">ECE216</string>
+    <string name="Subject13">MEC103</string>
+    <string name="Subject14">MTH166</string>
+    <string name="Subject15">PEL131</string>
+    <string name="Subject16">PHY109</string>
+    <string name="Subject17">PHY119</string>
+    <string name="thirdSemesterSubject">Term-III</string>
+    <string name="Subject18">CSE205</string>
+    <string name="Subject19">CSE211</string>
+    <string name="Subject20">CSE320</string>
+    <string name="Subject21">INT213</string>
+    <string name="Subject22">INT306</string>
+    <string name="Subject23">MTH401</string>
+    <string name="Subject24">PES314</string>
+    <string name="fourthSemesterSubject">Term-IV</string>
+    <string name="Subject25">CSE306</string>
+    <string name="Subject26">CSE307</string>
+    <string name="Subject27">CSE310</string>
+    <string name="Subject28">CSE316</string>
+    <string name="Subject29">CSE325</string>
+    <string name="Subject30">CSE408</string>
+    <string name="Subject31">INT404</string>
+    <string name="Subject32">MTH302</string>
+    <string name="Subject33">PEV106</string>
+    <string name="fifthSemesterSubject">Term-V</string>
+    <string name="Subject34">CSE224</string>
+    <string name="Subject35">CSE322</string>
+    <string name="Subject36">CSE332</string>
+    <string name="Subject37">CSE343</string>
+    <string name="Subject38">ENG889</string>
+    <string name="Subject39">PEV107</string>
+    <string name="sixthSemesterSubject">Term-VI</string>
+    <string name="Subject40">CSE225</string>
+    <string name="Subject41">CSE226</string>
+    <string name="Subject42">CSE423</string>
+    <string name="Subject43">CSE427</string>
+    <string name="Subject44">PES317</string>
+    <string name="Subject45">PSY802</string>
+    <string name="seventhSemesterSubject">Term-VII</string>
+    <string name="Subject46">CSE227</string>
+    <string name="Subject47">FST700</string>
+    <string name="Subject48">INT418</string>
+    <string name="eighthSemesterSubject">Term-VIII</string>
+    <string name="Subject49">CSE411</string>
+    <string name="dark_mode_text">Enable dark mode!</string>
+</resources>

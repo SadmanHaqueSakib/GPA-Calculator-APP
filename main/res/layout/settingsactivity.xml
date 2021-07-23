@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?attr/background_color"
+    tools:context=".SettingsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="?attr/second_background_color"
+        android:elevation="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/SettingsHeading"
+            android:fontFamily="sans-serif"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+        <LinearLayout
+            android:elevation="8dp"
+            android:background="?attr/final_background"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:padding="10dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:textSize="25sp"
+                android:fontFamily="sans-serif"
+                android:layout_marginStart="8sp"
+                android:text="@string/SettingDarkModeToggle"/>
+
+
+                <androidx.appcompat.widget.SwitchCompat
+                android:layout_marginStart="8sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/bt_switch"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
